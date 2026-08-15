@@ -1,0 +1,25 @@
+SARA CHEN
+Machine Learning Engineer
+sara.chen@example.com | (555) 456-7890 | New York, NY
+
+SUMMARY
+Machine learning engineer with 3 years of experience building and
+deploying NLP and computer vision models in production. Deep expertise
+in Python and PyTorch.
+
+SKILLS
+Python, PyTorch, TensorFlow, NLP, Computer Vision, Docker, AWS SageMaker,
+FastAPI
+
+EXPERIENCE
+ML Engineer, VisionAI Labs (2022 - Present)
+- Trained and deployed a Python/PyTorch object-detection model serving
+  10M+ inference requests per month via FastAPI on AWS SageMaker.
+- Built a fine-tuning pipeline for transformer-based NLP models in Python.
+
+ML Intern, DataForge (2021 - 2022)
+- Prototyped text-classification models using Python and scikit-learn.
+
+EDUCATION
+M.S. in Computer Science (Machine Learning), Columbia University (2022)
+B.S. in Applied Mathematics, NYU (2020)

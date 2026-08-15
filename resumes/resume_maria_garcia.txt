@@ -1,0 +1,24 @@
+MARIA GARCIA
+Data Analyst
+maria.garcia@example.com | (555) 234-5678 | Austin, TX
+
+SUMMARY
+Detail-oriented data analyst with 4 years of experience turning raw data
+into actionable business insights using SQL, Python, and Tableau.
+
+SKILLS
+SQL, Python, Pandas, Tableau, Excel, R, Statistics, A/B Testing
+
+EXPERIENCE
+Data Analyst, Northwind Retail (2020 - Present)
+- Built weekly dashboards in Tableau tracking revenue and churn across
+  12 product lines.
+- Used Python (pandas, scikit-learn) to build a churn-prediction model
+  with 82% accuracy.
+- Ran A/B tests on checkout flow changes, improving conversion by 6%.
+
+Junior Data Analyst, City of Austin (2019 - 2020)
+- Cleaned and analyzed public transit ridership data using SQL and Excel.
+
+EDUCATION
+B.A. in Economics, University of Texas at Austin (2019)
